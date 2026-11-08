@@ -5,7 +5,7 @@
 
 Hello and welcome to my portfolio!
 
-I am a robotics engineering student in the co-op program at Université de Sherbrooke, graduating in December 2027. I enjoy working on embedded software and mechanical design, and I like seeing a system run on real hardware. I am especially interested in mobile robots and autonomous vehicles.
+I am a 4th year engineering student in the co-op program at Université de Sherbrooke, graduating in December 2027. I enjoy working on embedded software and mechanical design, and I like seeing a system run on real hardware. I am especially interested in mobile robots and autonomous vehicles.
 
 I am looking for a robotics or embedded software internship for summer 2027, available from May to August.
 
@@ -134,7 +134,7 @@ In Quebec, roads are covered in de-icing salt every winter. It works, but it dam
 
 - **The product:** a new de-icing mix made of recycled sunflower seed hulls combined with salt and calcium chloride.
 - **A local supply chain:** the hulls came from a local farm, which also became one of our points of sale.
-- **Real customers:** 4 early adopters bought our product to test it (Université de Sherbrooke, Groupe Somavrac, Victoriaville and Kingsey Falls), and 25 people bought a bag of it.
+- **Real customers:** 4 early adopters bought our product to test it (Université de Sherbrooke, Groupe Somavrac, Victoriaville and Kingsey Falls).
 - **The pitch:** we presented the startup to the jury and an audience of 500 people.
 
 <img src="media/entrep_city.png" alt="Our early adopters" width="600"/>
