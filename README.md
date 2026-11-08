@@ -7,6 +7,8 @@ Hello and welcome to my portfolio!
 
 I am a robotics engineering student in the co-op program at Université de Sherbrooke, graduating in December 2027. I enjoy working on embedded software and mechanical design, and I like seeing a system run on real hardware. I am especially interested in mobile robots and autonomous vehicles.
 
+I am looking for a robotics or embedded software internship for summer 2027, available from May to August.
+
 This portfolio presents my school projects and extracurricular involvement.
 
 My professional experience is detailed in my resume. In short: 4 internships, including 2 at General Dynamics Mission Systems – Canada, one installing robotic palletizing cells at BeRobox, and one in biomedical sensor research at Créatek.
